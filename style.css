@@ -32,7 +32,12 @@ button{
     height: 100px;
 }
 
+.contact-img-height{
+    height: 30px;
+}
+
 .skills-bg{
     background-color: rgb(54, 40, 71);
     border-radius: 25px;
 }
+

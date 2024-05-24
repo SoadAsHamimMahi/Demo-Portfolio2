@@ -1,0 +1,27 @@
+.body-bg {
+    background: linear-gradient(135deg, rgb(15, 7, 21), rgb(38, 21, 64));
+    color: white;
+}
+.container-bg{
+    background-color: #050709;
+}
+button{
+    background: linear-gradient(135deg, rgb(134,80,245), rgb(48,24,95));
+    color: white;
+}
+
+.text-white a {
+    color: white;
+}
+
+.text-white a:hover {
+    color: lightgray;
+}
+.text-gradient {
+    background: linear-gradient(135deg, rgb(136, 81, 247), rgb(244, 240, 254));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+ 
+}
+

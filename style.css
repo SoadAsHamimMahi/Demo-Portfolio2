@@ -22,6 +22,17 @@ button{
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
- 
 }
 
+.text-violate{
+   color: rgb(135,78,233);
+}
+
+.image-height{
+    height: 100px;
+}
+
+.skills-bg{
+    background-color: rgb(54, 40, 71);
+    border-radius: 25px;
+}
